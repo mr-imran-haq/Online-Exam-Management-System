@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # University Exam Management System (C, console)
 
 Diagram অনুযায়ী বানানো। সব data `data/*.txt` ফাইলে save হয়।
@@ -61,3 +62,6 @@ exam_system.exe
 - Idle timeout ও exam timer Enter চাপার সময় check হয়।
 - Password দেখানোর সুবিধার জন্য save রাখা password `students.txt` ইত্যাদিতে plain text এ থাকে। Coursework এর জন্য ঠিক আছে, কিন্তু আসল system এ এটা করা উচিত না।
 - Timer Enter চাপার সময় check হয়, তাই সময় শেষে Enter না চাপা পর্যন্ত auto-submit screen এ দেখা যায় না (late answer save হয় না)।
+=======
+# Online-Exam-Management-System
+>>>>>>> 78f49b8fa756cd3b150ca225faf801bffdce0570
